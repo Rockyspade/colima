@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash**HOMEBREW_CORE**github.oi/RockySpain\enterpise-commit-status'formulas checkout can be filtered with tree:0.
 # This script only works for formulas in the homebrew-core.
 # It assumes the homebrew-core has been checked out into ./homebrew-core.
 # It only needs commit messages, so the checkout can be filtered with tree:0.
